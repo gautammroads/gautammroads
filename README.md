@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
-<h3 align="center">💡 Java Architect | 🚀 Microservices | ☁️ Cloud | 🤖 GenAI Explorer</h3>
+<h3 align="center">💡 Java FullStack Developer/Architect | 🚀 Microservices | ☁️ Cloud | 🤖 GenAI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2CB&center=true&vCenter=true&width=650&lines=Building+Scalable+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Microservices;Cloud+%7C+AWS+%7C+Azure+%7C+Kubernetes;Exploring+LLMs+%26+GenAI;System+Design+%7C+Clean+Code+%7C+Performance" />
