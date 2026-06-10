@@ -109,7 +109,7 @@ Cloud:          AWS, Azure
 DevOps:         Docker, Kubernetes, Jenkins
 Messaging:      Kafka, RabbitMQ
 Databases:      PostgreSQL, MongoDB, Redis
-AI Stack:       LLMs, LangChain (Learning Phase)
+AI Stack:       LLMs, LangChain (Learning Phase), Claude Code
 ```
 
 ---
